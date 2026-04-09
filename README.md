@@ -1,2 +1,0 @@
-# AWS-automation
-Devops-AWS
