@@ -8,3 +8,6 @@ Bem-vindo ao repositorio ! Este e um projeto de exemplo para demonstrar o uso b√
 ##########
 
 ##Estrutura do projeto
+### adicionando arquivos remotos 
+
+estudo github
